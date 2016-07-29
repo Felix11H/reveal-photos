@@ -4,6 +4,6 @@ A minimalist HTML template and an ugly shell script to build simple, static phot
 
 ## Usage
 
-* drop photos in `/photos`
+* drop photos in `img/`
 * `./build.sh`
 * open `index.html`
